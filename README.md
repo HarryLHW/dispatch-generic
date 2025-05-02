@@ -2,7 +2,7 @@
 
 A simple dispatch decorator for generic functions.
 
-`pip install dispatch`
+`pip install dispatch-generic`
 
 ```python
 from dispatch import dispatch
